@@ -13,3 +13,4 @@ For the most efficient learning process, please follow the recommended order bel
   6. Operators
   7. Statement_Syntax
   8. If_Else_Elif_Statements
+  9. For_Loops
