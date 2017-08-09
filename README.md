@@ -13,3 +13,4 @@ This contains jupyter notebooks that teach the basics for programming in python 
   7. Statement_Syntax
   8. If_Else_Elif_Statements
   9. For_Loops
+  10. While_Loops
