@@ -1,7 +1,6 @@
 #### Unfinished - all notebooks have not been completed and uploaded
 # Programming-Basics
-This contains jupyter notebooks that teach the basics for programming in python 3. Club members with little or no programming experience should access this. More experienced members that wish to brush up on basic programming skills should access this as well.
-For the most efficient learning process, please follow the recommended order below:
+This contains jupyter notebooks that teach the basics for programming in python 3. Club members with little or no programming experience should access this. More experienced members that wish to brush up on basic programming skills should access this as well. For the most efficient learning process, please follow the recommended order below:
 ## Basics:
   1. Numbers
 ## Data Structures
