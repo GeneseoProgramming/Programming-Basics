@@ -1,6 +1,9 @@
 #### Unfinished - all notebooks have not been completed and uploaded
 # Programming-Basics
 This contains jupyter notebooks that teach the basics for programming in python 3. Club members with little or no programming experience should access this. More experienced members that wish to brush up on basic programming skills should access this as well. For the most efficient learning process, please follow the recommended order below:
+
+All notebooks were written by Joseph Tadros during the Summer of 2017. Edits may have been made by other club members since the initial upload.
+
 ## Basics:
   1. Numbers
 ## Data Structures
@@ -15,3 +18,5 @@ This contains jupyter notebooks that teach the basics for programming in python 
   9. For_Loops
   10. While_Loops
   11. List_Comprehensions
+## Functions
+  12. Functions
