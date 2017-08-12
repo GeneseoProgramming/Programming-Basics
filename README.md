@@ -20,3 +20,4 @@ All notebooks were written by Joseph Tadros during the Summer of 2017. Edits may
   11. List_Comprehensions
 ## Functions
   12. Functions
+  13. Lambda_Functions
